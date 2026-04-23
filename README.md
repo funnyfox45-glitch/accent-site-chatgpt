@@ -36,3 +36,4 @@ npm run build
 - `src/styles.css` — стили
 - `public/assets` — изображения и логотипы
 - `.github/workflows/deploy.yml` — автоматическая публикация на GitHub Pages
+update
